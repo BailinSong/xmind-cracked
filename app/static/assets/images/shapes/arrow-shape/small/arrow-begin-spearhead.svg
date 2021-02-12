@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_spearhead start</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="16"></rect>
+        <polygon id="path-2" points="2.74441872 8.49308348 12.103036 3.06378174 12.103036 3.32736055 9.74156268 8.49308348 12.1439116 13.7482217 12.1439116 13.9717407"></polygon>
+    </defs>
+    <g id="Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标" transform="translate(-2393.000000, -1640.000000)">
+            <g id="ic-straight-copy-15" transform="translate(2393.000000, 1640.000000)">
+                <g id="ic_rectangle" opacity="0">
+                    <use fill="#F5F5F5" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#DEDEDE" stroke-width="0.81" x="0.405" y="0.405" width="15.19" height="15.19"></rect>
+                </g>
+                <rect id="Rectangle-46" fill="#434B54" x="9" y="8" width="7" height="1" rx="0.5"></rect>
+                <g id="Triangle-3">
+                    <use fill="#434B54" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <path stroke="#434B54" stroke-width="1" d="M11.6439116,13.8570893 L11.6439116,13.7482217 L12.1439116,13.7482217 L11.6891743,13.9561016 L11.6439116,13.8570893 Z M11.603036,3.21849296 L11.6482988,3.11948067 L12.103036,3.32736055 L11.603036,3.32736055 L11.603036,3.21849296 Z M11.1730769,12.8271384 L9.19179464,8.49308348 L11.1591983,4.18938786 L3.73906761,8.49409735 L11.1730769,12.8271384 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

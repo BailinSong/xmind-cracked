@@ -1,0 +1,31 @@
+{
+  "id": "{{_UUID_}}",
+  "class": "sheet",
+  "title": "{{Map 1}}",
+  "rootTopic": {
+    "id": "3c29d1d0bca9ce3dd4dae8d52d",
+    "class": "topic",
+    "title": "{{The First Season}}",
+    "structureClass": "org.xmind.ui.timeline.horizontal",
+    "titleUnedited": true,
+    "children": {
+      "attached": [
+        {
+          "id": "196bb6817488e3825f77684549",
+          "title": "{{The Second Season}}",
+          "titleUnedited": true
+        },
+        {
+          "id": "128b271c41386042b7af783940",
+          "title": "{{The Third Season}}",
+          "titleUnedited": true
+        },
+        {
+          "id": "36f2d8a1-5e81-4eef-842a-e1166884cf7e",
+          "title": "{{The Final Season}}",
+          "titleUnedited": true
+        }
+      ]
+    }
+  }
+}

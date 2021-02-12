@@ -1,0 +1,87 @@
+{
+  "features": {
+    "zh-CN": [
+        "适用于 Windows, macOS, iOS 和 Android。",
+        "始终使用最新版本。",
+        "解锁 XMind 全功能。"
+      ],
+    "en-US": [
+        "Available on Windows, macOS, iOS & Android.",
+        "Always use the latest version.",
+        "Unlock full features of XMind."
+      ],
+    "zh-TW": [
+        "適用於 Windows, macOS, iOS 及 Android 作業系統。",
+        "一直使用最新版本。",
+        "解鎖 XMind 全部功能。"
+      ],
+    "fr-FR": [
+        "Disponible sous Windows, macOS, iOS & Android.",
+        "Toujours utiliser la dernière version.",
+        "Débloquer toutes les fonctionnalités d'XMind."
+      ],
+    "de-DE": [
+        "Verfügbar für Windows, MacOS, iOS und Android.",
+        "Immer die neueste Version verwenden.",
+        "Schalte alle Funktionen von XMind frei."
+      ],
+    "ja-JP": [
+        "Windows, macOS, iOS & Android に対応。",
+        "常に最新版を使用してください。",
+        "XMind の全機能をロック解除しよう。"
+      ],
+    "es": [
+      "Disponible en Windows, macOS, iOS y Android.",
+      "Usar siempre la versión más reciente.",
+      "Desbloquear todas las funciones de XMind."
+    ],
+    "id": [
+      "Tersedia di Windows, macOS, iOS & Android.",
+      "Selalu gunakan versi terbaru.",
+      "Buka fitur lengkap XMind."
+    ],
+    "it-IT": [
+      "Disponibile per Windows, macOS, iOS e Android.",
+      "Utilizza sempre la versione più recente.",
+      "Sblocca tutte le funzionalità di XMind."
+    ],
+    "ko": [
+      "Windows, macOS, iOS 및 Android에서 사용할 수 있습니다.",
+      "항상 최신 버전을 사용하세요.",
+      "XMind의 모든 기능을 잠금 해제하세요."
+    ],
+    "pt-PT": [
+      "Disponível no Windows, macOS, iOS e Android.",
+      "Utilizar sempre a versão mais recente.",
+      "Desbloquear as funcionalidades completas do XMind."
+    ],
+    "ru-RU": [
+      "Доступно на Windows, macOS, iOS и Android.",
+      "Всегда использовать последнюю версию.",
+      "Разблокировать все функции XMind."
+    ],
+    "th": [
+      "พร้อมใช้งานบน Windows, macOS, iOS และ Android",
+      "ใช้เวอร์ชันล่าสุดเสมอ",
+      "ปลดล็อกคุณลักษณะทั้งหมดของ XMind"
+    ]
+  },
+  "products": [
+    {
+      "month": 6,
+      "price": {
+        "cny": 258,
+        "usd": 39.99
+      },
+      "type": "bundle"
+    },
+    {
+      "month": 12,
+      "price": {
+        "cny": 388,
+        "usd": 59.99
+      },
+      "type": "bundle"
+    }
+  ]
+}

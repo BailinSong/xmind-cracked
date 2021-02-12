@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组" transform="translate(8.000000, 8.000000) scale(-1, 1) translate(-8.000000, -8.000000) translate(-0.500000, 1.000000)">
+            <path d="M15.73,1.43 L15.73,2.86 L13.585,2.86 L13.585,6.0775 L12.87,7.15 L13.585,8.2225 L13.585,11.44 L15.73,11.44 L15.73,12.87 L13.585,12.87 C12.87,12.87 12.155,12.155 12.155,11.44 L12.155,8.2225 L11.44,7.15 L12.155,6.0775 L12.155,2.86 C12.155,2.07023281 12.7952328,1.43 13.585,1.43 L15.73,1.43 Z" id="Path" fill="#000000" fill-rule="nonzero" transform="translate(13.585000, 7.150000) rotate(-180.000000) translate(-13.585000, -7.150000) "></path>
+            <line x1="16.445" y1="7.15" x2="15.015" y2="7.15" id="Path-19" stroke="#000000" stroke-width="1.65" transform="translate(15.730000, 7.150000) rotate(-180.000000) translate(-15.730000, -7.150000) "></line>
+            <rect id="Rectangle-Copy-3" stroke="#000000" stroke-width="1.65" x="1.265" y="1.375" width="8.36" height="4.07" rx="0.715"></rect>
+            <rect id="Rectangle-Copy-3" stroke="#000000" stroke-width="1.65" x="1.265" y="9.075" width="8.36" height="4.07" rx="0.715"></rect>
+        </g>
+    </g>
+</svg>

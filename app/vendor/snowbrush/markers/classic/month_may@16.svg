@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40 (33762) - http://www.bohemiancoding.com/sketch -->
+    <title>month_may copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="16" rx="2"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="16" height="16" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="16" height="16" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#00DD5B" offset="0%"></stop>
+            <stop stop-color="#00C853" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="最终稿2.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="month-copy" transform="translate(-84.000000, 0.000000)">
+            <g id="month_may" transform="translate(84.000000, 0.000000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask" stroke="#CFCFCF" mask="url(#mask-2)" stroke-width="0.8" fill="#FAFAFA">
+                    <use mask="url(#mask-4)" xlink:href="#path-1"></use>
+                </g>
+                <rect id="Rectangle-15" fill="url(#linearGradient-5)" mask="url(#mask-3)" x="0" y="0" width="16" height="5"></rect>
+                <path d="M7.17367788,11.6923927 C7.21794893,11.9345814 7.3025835,12.1214285 7.42758413,12.2529396 C7.55258475,12.3844506 7.7348746,12.4502052 7.97445913,12.4502052 C8.25050217,12.4502052 8.46078653,12.3532009 8.6053185,12.1591896 C8.74985047,11.9651782 8.82211538,11.72104 8.82211538,11.4267677 C8.82211538,11.1377037 8.75440772,10.8935655 8.61899038,10.6943458 C8.48357303,10.4951261 8.27263764,10.3955177 7.98617788,10.3955177 C7.85076053,10.3955177 7.73357421,10.4124446 7.63461538,10.4462989 C7.46013534,10.5087992 7.32862624,10.6246835 7.24008413,10.7939552 L6.24008413,10.7470802 L6.63852163,7.61817393 L9.75961538,7.61817393 L9.75961538,8.56348643 L7.44320913,8.56348643 L7.24008413,9.80176768 C7.41195999,9.68978795 7.54607323,9.61556994 7.64242788,9.57911143 C7.80388702,9.51921529 8.00049964,9.48926768 8.23227163,9.48926768 C8.70102397,9.48926768 9.10987405,9.64681818 9.45883413,9.96192393 C9.80779421,10.2770297 9.98227163,10.7353584 9.98227163,11.3369239 C9.98227163,11.860364 9.81430456,12.3278073 9.47836538,12.7392677 C9.1424262,13.1507281 8.63982706,13.3564552 7.97055288,13.3564552 C7.43148768,13.3564552 6.98878378,13.2119254 6.64242788,12.9228614 C6.29607198,12.6337975 6.10336557,12.2236453 6.06430288,11.6923927 L7.17367788,11.6923927 Z" id="5" fill="#6C6C6C" mask="url(#mask-3)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

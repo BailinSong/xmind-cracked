@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="84px" height="40px" viewBox="0 0 84 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56 (81588) - https://sketch.com -->
+    <title>Balanced map</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Balanced-map" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-44">
+            <rect id="Rectangle-Copy-18" x="0" y="0" width="84" height="40" rx="3.24"></rect>
+            <g id="Group-43" transform="translate(17.000000, 8.000000)">
+                <g id="Group-42" transform="translate(3.829787, 16.484848)" stroke="#000000" stroke-width="2">
+                    <path d="M13,0.106060606 C11.6133333,3.23737374 7.28,4.8030303 0,4.8030303" id="Path-23"></path>
+                </g>
+                <g id="Group-42-Copy-2" transform="translate(38.712766, 18.984848) scale(-1, 1) translate(-38.712766, -18.984848) translate(32.212766, 16.484848)" stroke="#000000" stroke-width="2">
+                    <path d="M13,0.106060606 C11.6133333,3.23737374 7.28,4.8030303 0,4.8030303" id="Path-23"></path>
+                </g>
+                <g id="Group-42-Copy" transform="translate(10.329787, 5.015152) scale(1, -1) translate(-10.329787, -5.015152) translate(3.829787, 2.515152)" stroke="#000000" stroke-width="2">
+                    <path d="M13,0.106060606 C11.6133333,3.23737374 7.28,4.8030303 0,4.8030303" id="Path-23"></path>
+                </g>
+                <g id="Group-42-Copy-3" transform="translate(24.500000, 12.000000) scale(-1, -1) translate(-24.500000, -12.000000) ">
+                    <rect id="Rectangle" fill="#000000" x="0.74250097" y="19.2878788" width="4" height="4" rx="2"></rect>
+                    <rect id="Rectangle-Copy-33" fill="#000000" x="44.212766" y="19.2878788" width="4" height="4" rx="2"></rect>
+                    <rect id="Rectangle-Copy-32" fill="#000000" x="0.74250097" y="0.763048425" width="4" height="4" rx="2"></rect>
+                    <rect id="Rectangle-Copy-34" fill="#000000" x="44.212766" y="0.763048425" width="4" height="4" rx="2"></rect>
+                    <path d="M16.787234,16.5909091 C15.4005674,19.7222222 11.067234,21.2878788 3.78723404,21.2878788" id="Path-23" stroke="#000000" stroke-width="2"></path>
+                </g>
+                <rect id="Rectangle" stroke="#000000" stroke-width="2" x="14.5" y="7" width="21" height="10" rx="0.9477"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

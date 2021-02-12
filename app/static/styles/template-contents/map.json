@@ -1,0 +1,42 @@
+{
+  "id": "{{_UUID_}}",
+  "class": "sheet",
+  "title": "{{Map 1}}",
+  "rootTopic": {
+    "id": "b9aa22deba98b3b20c7ac8aca2",
+    "class": "topic",
+    "title": "{{Central Topic}}",
+    "structureClass": "org.xmind.ui.map.unbalanced",
+    "titleUnedited": true,
+    "children": {
+      "attached": [
+        {
+          "id": "b58888b5ceebbf0e68dada0656",
+          "title": "{{Main Topic 1}}",
+          "titleUnedited": true
+        },
+        {
+          "id": "193b56735e689ae86a01d91513",
+          "title": "{{Main Topic 2}}",
+          "titleUnedited": true
+        },
+        {
+          "id": "67ddbcb1-85c9-4478-a0aa-580e9fdcd971",
+          "title": "{{Main Topic 3}}",
+          "titleUnedited": true
+        }
+      ]
+    },
+    "extensions": [
+      {
+        "content": [
+          {
+            "content": "3",
+            "name": "right-number"
+          }
+        ],
+        "provider": "org.xmind.ui.map.unbalanced"
+      }
+    ]
+  }
+}

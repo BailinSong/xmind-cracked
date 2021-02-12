@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56 (81588) - https://sketch.com -->
+    <title>symbol_line_graphy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="symbol_line_graphy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-19-Copy">
+            <g id="Group-17" fill="#FF8533">
+                <circle id="Oval-29" cx="12" cy="12" r="12"></circle>
+            </g>
+            <path d="M4.05029297,17.7353027 C3.75330501,17.7329334 5.03819956,16.1776756 6,15 C6.8775103,13.9255333 7.41698632,13.2183112 7.62231445,13.2328125 C8.05269372,13.263208 9.17349243,14.4604431 9.45043945,14.4248291 C9.72738647,14.3892151 12.0016479,9.44168701 12.4564819,9.43125 C12.9113159,9.42081299 14.5980615,11.1017395 14.8252563,11.1269165 C15.0524512,11.1520935 19,4.76101685 19,6 C19,6.82598877 18.9552409,10.7105796 18.8657227,17.6537726 C9.36740188,17.7111468 4.42892532,17.7383235 4.05029297,17.7353027 Z" id="Path-31" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

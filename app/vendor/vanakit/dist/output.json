@@ -1,0 +1,10 @@
+{
+    "themes": {
+        "default": {
+            "background": "#FFFFFF"
+        },
+        "dark": {
+            "background": "#1D1F20"
+        }
+    }
+}

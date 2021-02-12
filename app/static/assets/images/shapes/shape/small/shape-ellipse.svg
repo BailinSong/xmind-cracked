@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_ ellipse</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标" transform="translate(-2212.000000, -1262.000000)">
+            <g id="ic-straight-copy-31" transform="translate(2212.000000, 1262.000000)">
+                <rect id="ic_rectangle" stroke="#DEDEDE" stroke-width="0.81" opacity="0" x="0.405" y="0.405" width="15.19" height="15.19"></rect>
+                <ellipse id="Oval-12" stroke="#434B54" cx="8" cy="8" rx="7" ry="4.5"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

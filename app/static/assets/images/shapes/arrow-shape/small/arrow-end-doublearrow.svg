@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_doublearrow end</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="16"></rect>
+        <polyline id="path-2" points="7.59012695 7.68240479 10.5 5.5 10.5 11.5 7.60197266 9.32647949"></polyline>
+        <polygon id="path-3" points="1.69995117 8.5 7.69995117 4 7.69995117 13"></polygon>
+    </defs>
+    <g id="Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标" transform="translate(-2669.000000, -1697.000000)">
+            <g id="ic-straight-copy-42" transform="translate(2677.000000, 1705.000000) scale(-1, 1) translate(-2677.000000, -1705.000000) translate(2669.000000, 1697.000000)">
+                <g id="ic_rectangle" opacity="0">
+                    <use fill="#F5F5F5" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#DEDEDE" stroke-width="0.81" x="0.405" y="0.405" width="15.19" height="15.19"></rect>
+                </g>
+                <rect id="Rectangle-46" fill="#434B54" x="10" y="8" width="6" height="1" rx="0.5"></rect>
+                <g id="Triangle-4">
+                    <use fill="#434B54" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <path stroke="#434B54" stroke-width="1" d="M8.09193145,7.93105141 L8.10017465,9.07513098 L10,10.5 L10,6.5 L8.09193145,7.93105141 Z"></path>
+                </g>
+                <g id="Triangle-4">
+                    <use fill="#434B54" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <path stroke="#434B54" stroke-width="1" d="M2.53328451,8.5 L7.19995117,12 L7.19995117,5 L2.53328451,8.5 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

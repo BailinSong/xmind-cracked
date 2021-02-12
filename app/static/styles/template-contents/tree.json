@@ -1,0 +1,31 @@
+{
+  "id": "{{_UUID_}}",
+  "class": "sheet",
+  "title": "{{Map 1}}",
+  "rootTopic": {
+    "id": "9ce95435682877e665a6db281f",
+    "class": "topic",
+    "title": "{{Outline}}",
+    "structureClass": "org.xmind.ui.tree.right",
+    "titleUnedited": true,
+    "children": {
+      "attached": [
+        {
+          "id": "da1988d4c79b583f0df6780074",
+          "title": "{{Introduction}}",
+          "titleUnedited": true
+        },
+        {
+          "id": "e61bd3edf1eb87f13b48492ed6",
+          "title": "{{Major Point}}",
+          "titleUnedited": true
+        },
+        {
+          "id": "39b0ac11-eb5e-493a-a5cd-c5975992e45e",
+          "title": "{{Conclusion}}",
+          "titleUnedited": true
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>note</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="100%" x2="100%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#FFEE58" offset="0%"></stop>
+            <stop stop-color="#FDD835" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="1.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon" transform="translate(-45.000000, -1.000000)">
+            <g id="note" transform="translate(46.618262, 0.986142)">
+                <g id="Group-Copy">
+                    <path d="M0,1.00087166 C0,0.448105505 0.447489426,0 0.998502329,0 L12.0014977,0 C12.5529553,0 13,0.45094853 13,0.991888078 L13,11.8732908 L8.88365524,16 L1.00179953,16 C0.448520927,16 0,15.5553691 0,14.9991283 L0,1.00087166 Z" id="Mask" fill="url(#linearGradient-1)" transform="translate(6.500000, 8.000000) scale(1, -1) translate(-6.500000, -8.000000) "></path>
+                    <path d="M0,1.00087166 C0,0.448105505 0.447489426,0 0.998502329,0 L12.0014977,0 C12.5529553,0 13,0.45094853 13,0.991888078 L13,11.8732908 L8.88365555,11.873291 L8.88365524,16 L1.00179953,16 C0.448520927,16 0,15.5553691 0,14.9991283 L0,1.00087166 Z" id="Combined-Shape" fill="url(#linearGradient-1)" transform="translate(6.500000, 8.000000) scale(1, -1) translate(-6.500000, -8.000000) "></path>
+                    <path d="M0,1.00087166 C0,0.448105505 0.447489426,0 0.998502329,0 L12.0014977,0 C12.5529553,0 13,0.45094853 13,0.991888078 L13,11.8732908 L8.88365524,16 L1.00179953,16 C0.448520927,16 0,15.5553691 0,14.9991283 L0,1.00087166 Z M0,1.00087166 C0,0.448105505 0.447489426,0 0.998502329,0 L12.0014977,0 C12.5529553,0 13,0.45094853 13,0.991888078 L13,11.8732908 L9.88010772,11.873291 C9.32978238,11.873291 8.88365551,12.3149212 8.88365547,12.8722521 L8.88365524,16 L1.00179953,16 C0.448520927,16 0,15.5553691 0,14.9991283 L0,1.00087166 Z" id="Combined-Shape" fill="#F9A825" transform="translate(6.500000, 8.000000) scale(1, -1) translate(-6.500000, -8.000000) "></path>
+                    <path d="M2,3.31185911 L11,3.31185911 L11,4.31185911 L2,4.31185911 L2,3.31185911 Z M2,6.31185911 L11,6.31185911 L11,7.31185911 L2,7.31185911 L2,6.31185911 Z M2,9.31185911 L11,9.31185911 L11,10.3118591 L2,10.3118591 L2,9.31185911 Z M2,12.3118591 L7.4,12.3118591 L7.4,13.3118591 L2,13.3118591 L2,12.3118591 Z" id="Combined-Shape" fill="#F9A825" transform="translate(6.500000, 8.311859) scale(1, -1) translate(-6.500000, -8.311859) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>shy</title>
+    <g id="shy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-" x="0" y="0" width="64" height="64"></rect>
+        <circle id="Oval-" stroke="#FFFFFF" stroke-width="1.5" fill="#FBDC67" cx="32" cy="32" r="25.75"></circle>
+        <path d="M55.672689,23.9412235 C56.5332091,26.4697498 57,29.1803625 57,32 C57,45.8071187 45.8071187,57 32,57 C19.5735931,57 9.26471863,47.9337662 7.32720779,36.0551299 L7.40137137,36.2731744 C10.816298,46.0145228 20.0923762,53 31,53 C44.8071187,53 56,41.8071187 56,28 C56,26.6192881 55.8880712,25.2647186 55.6727922,23.9448701 Z" id="Combined-Shape" fill="#F2CC5B"></path>
+        <path d="M20.6114954,42.9081736 C23.7850336,44.8497512 27.7278573,46 32,46 C36.932206,46 41.4254694,44.4668569 44.8027634,41.952882" id="Oval-" stroke="#4C4023" stroke-width="3" stroke-linecap="round"></path>
+        <ellipse id="Oval-" fill="#E45353" opacity="0.5" cx="47" cy="33" rx="7" ry="4"></ellipse>
+        <ellipse id="Oval--" fill="#E45353" opacity="0.5" cx="17" cy="34" rx="7" ry="4"></ellipse>
+        <path d="M36,24.7980121 C38.9475098,22.7677386 42.5681152,21.6918109 47.2971191,25.8236468" id="Path-" stroke="#4C4023" stroke-width="3" stroke-linecap="round"></path>
+        <path d="M16.7000008,24.7980121 C19.6475105,22.7677386 23.268116,21.6918109 27.9971199,25.8236468" id="Path--" stroke="#4C4023" stroke-width="3" stroke-linecap="round" transform="translate(22.348560, 24.411823) scale(-1, 1) translate(-22.348560, -24.411823) "></path>
+    </g>
+</svg>

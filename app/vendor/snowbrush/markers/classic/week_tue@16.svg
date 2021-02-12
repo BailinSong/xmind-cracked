@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40 (33762) - http://www.bohemiancoding.com/sketch -->
+    <title>week_tue copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="48.7731963%" x2="50%" y2="51.0374006%" id="linearGradient-1">
+            <stop stop-color="#6F7B9A" offset="0%"></stop>
+            <stop stop-color="#5A647D" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="最终稿2.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="weeks-copy-2" transform="translate(-42.000000, 0.000000)">
+            <g id="week_tue" transform="translate(42.000000, 0.000000)">
+                <rect id="Rectangle-76-Copy-4" fill="url(#linearGradient-1)" x="0" y="0" width="16" height="16" rx="2"></rect>
+                <polygon id="T" fill="#FFFFFF" points="10.5489554 5.27856757 10.5489554 6.29809882 8.8262992 6.29809882 8.8262992 11.0363801 7.6153617 11.0363801 7.6153617 6.29809882 5.88489295 6.29809882 5.88489295 5.27856757"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

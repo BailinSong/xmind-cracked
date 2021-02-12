@@ -1,0 +1,66 @@
+{
+  "id": "{{_UUID_}}",
+  "class": "sheet",
+  "title": "{{Map 1}}",
+  "rootTopic": {
+    "id": "58cab16cfde81cd1fc169815cf",
+    "class": "topic",
+    "title": "{{SWOT}}",
+    "structureClass": "org.xmind.ui.spreadsheet",
+    "titleUnedited": true,
+    "children": {
+      "attached": [
+        {
+          "id": "5c690ec524892388149bb82e2a",
+          "title": "{{Opportunities}}",
+          "titleUnedited": true,
+          "children": {
+            "attached": [
+              {
+                "id": "b510cc81-17a3-47ef-af2d-b19f57cd4327",
+                "title": " ",
+                "titleUnedited": true,
+                "labels": [
+                  "{{Weakness}}"
+                ]
+              },
+              {
+                "id": "6df44c33-1b0f-4059-9162-b32cff37e6aa",
+                "title": " ",
+                "titleUnedited": true,
+                "labels": [
+                  "{{Strengths}}"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "a06a140267f8e3295fe96ae74e",
+          "title": "{{Threats}}",
+          "titleUnedited": true,
+          "children": {
+            "attached": [
+              {
+                "id": "4a9c3a47-dd8c-4886-9798-7fffc50ef0d8",
+                "title": " ",
+                "titleUnedited": true,
+                "labels": [
+                  "{{Strengths}}"
+                ]
+              },
+              {
+                "id": "fdd91d49-5fec-4917-8340-9886db618bb1",
+                "title": " ",
+                "titleUnedited": true,
+                "labels": [
+                  "{{Weakness}}"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

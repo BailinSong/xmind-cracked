@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7 (28169) - http://www.bohemiancoding.com/sketch -->
+    <title>task pro_5/8d</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#00D156" offset="0%"></stop>
+            <stop stop-color="#00C050" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="最终稿2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="task-progress-" transform="translate(-107.000000, 0.000000)" fill="url(#linearGradient-1)">
+            <path d="M115,16 C119.418278,16 123,12.418278 123,8 C123,3.581722 119.418278,0 115,0
+                C110.581722,0 107,3.581722 107,8
+                C107,12.418278 110.581722,16 115,16 Z
+                M110.390405,13.2681086
+                C108.9252372,11.9850442 108,10.1005724 108,8
+                C108,4.1340068 111.134007,1 115,1
+                L115,8 L110.390405,13.2681086 Z" id="task-pro_5/8d"></path>
+        </g>
+    </g>
+</svg>

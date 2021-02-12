@@ -1,0 +1,463 @@
+{
+  "stickers": [
+    {
+      "name": "Business",
+      "items": [
+        {
+          "name": "bill"
+        },
+        {
+          "name": "briefcase"
+        },
+        {
+          "name": "calculator"
+        },
+        {
+          "name": "chat"
+        },
+        {
+          "name": "coffee"
+        },
+        {
+          "name": "contact"
+        },
+        {
+          "name": "customer"
+        },
+        {
+          "name": "email"
+        },
+        {
+          "name": "filesearch"
+        },
+        {
+          "name": "folder"
+        },
+        {
+          "name": "global"
+        },
+        {
+          "name": "inbox"
+        },
+        {
+          "name": "music"
+        },
+        {
+          "name": "news"
+        },
+        {
+          "name": "notebook"
+        },
+        {
+          "name": "presentation"
+        },
+        {
+          "name": "printer"
+        },
+        {
+          "name": "search"
+        },
+        {
+          "name": "target"
+        },
+        {
+          "name": "team"
+        },
+        {
+          "name": "time"
+        },
+        {
+          "name": "todolist"
+        },
+        {
+          "name": "trend"
+        },
+        {
+          "name": "usdollor"
+        },
+        {
+          "name": "voice"
+        },
+        {
+          "name": "workcard"
+        }
+      ]
+    },
+    {
+      "name": "Education",
+      "items": [
+        {
+          "name": "atom"
+        },
+        {
+          "name": "balance"
+        },
+        {
+          "name": "beaker_flask"
+        },
+        {
+          "name": "billiards"
+        },
+        {
+          "name": "blackboard"
+        },
+        {
+          "name": "book"
+        },
+        {
+          "name": "dna"
+        },
+        {
+          "name": "drcap"
+        },
+        {
+          "name": "earphone"
+        },
+        {
+          "name": "flag"
+        },
+        {
+          "name": "glasses"
+        },
+        {
+          "name": "medal"
+        },
+        {
+          "name": "museum"
+        },
+        {
+          "name": "palette"
+        },
+        {
+          "name": "paperboat"
+        },
+        {
+          "name": "pen"
+        },
+        {
+          "name": "puzzle"
+        },
+        {
+          "name": "sand_clock"
+        },
+        {
+          "name": "schoolbag"
+        },
+        {
+          "name": "tellurium"
+        },
+        {
+          "name": "triangle"
+        }
+      ]
+    },
+    {
+      "name": "Smiley",
+      "items": [
+        {
+          "name": "smile_through_tears"
+        },
+        {
+          "name": "awkward"
+        },
+        {
+          "name": "cool"
+        },
+        {
+          "name": "worried"
+        },
+        {
+          "name": "like"
+        },
+        {
+          "name": "shy"
+        },
+        {
+          "name": "fall_ill"
+        },
+        {
+          "name": "laugh"
+        },
+        {
+          "name": "smile"
+        },
+        {
+          "name": "cry"
+        },
+        {
+          "name": "kiss"
+        },
+        {
+          "name": "rolling_eyes"
+        },
+        {
+          "name": "rolling_on_the_floor_laughing"
+        },
+        {
+          "name": "thinking"
+        },
+        {
+          "name": "weary"
+        },
+        {
+          "name": "boring"
+        },
+        {
+          "name": "angry"
+        },
+        {
+          "name": "embarrass"
+        },
+        {
+          "name": "surprise"
+        },
+        {
+          "name": "pointing_right"
+        },
+        {
+          "name": "red_heard"
+        },
+        {
+          "name": "blue_heard"
+        },
+        {
+          "name": "purple_heard"
+        },
+        {
+          "name": "brown_heard"
+        },
+        {
+          "name": "two_heards"
+        },
+        {
+          "name": "one_hundred"
+        },
+        {
+          "name": "fire"
+        },
+        {
+          "name": "thumbs_up"
+        },
+        {
+          "name": "fold_hand"
+        },
+        {
+          "name": "eyes"
+        }
+      ]
+    },
+    {
+      "name": "Animal",
+      "items": [
+        {
+          "name": "bird"
+        },
+        {
+          "name": "bug"
+        },
+        {
+          "name": "butterfly"
+        },
+        {
+          "name": "cat"
+        },
+        {
+          "name": "cow"
+        },
+        {
+          "name": "dog"
+        },
+        {
+          "name": "fish"
+        },
+        {
+          "name": "lion"
+        },
+        {
+          "name": "monkey"
+        },
+        {
+          "name": "pig"
+        },
+        {
+          "name": "unicorn"
+        }
+      ]
+    },
+    {
+      "name": "Weather",
+      "items": [
+        {
+          "name": "cloudy"
+        },
+        {
+          "name": "dust_storms"
+        },
+        {
+          "name": "fog"
+        },
+        {
+          "name": "hurricane"
+        },
+        {
+          "name": "lightening"
+        },
+        {
+          "name": "moon"
+        },
+        {
+          "name": "rain"
+        },
+        {
+          "name": "snow"
+        },
+        {
+          "name": "sunny"
+        }
+      ]
+    },
+    {
+      "name": "Fruit",
+      "items": [
+        {
+          "name": "apple"
+        },
+        {
+          "name": "cherry"
+        },
+        {
+          "name": "grape"
+        },
+        {
+          "name": "lemon"
+        },
+        {
+          "name": "orange"
+        },
+        {
+          "name": "watermelon"
+        }
+      ]
+    },
+    {
+      "name": "Sport",
+      "items": [
+        {
+          "name": "basketball"
+        },
+        {
+          "name": "skateboard"
+        },
+        {
+          "name": "dumbbell"
+        },
+        {
+          "name": "swim"
+        },
+        {
+          "name": "stopwatch"
+        }
+      ]
+    },
+    {
+      "name": "Travel",
+      "items": [
+        {
+          "name": "beach"
+        },
+        {
+          "name": "big_ben"
+        },
+        {
+          "name": "bus"
+        },
+        {
+          "name": "camera"
+        },
+        {
+          "name": "compass"
+        },
+        {
+          "name": "eiffel_tower"
+        },
+        {
+          "name": "great_wall"
+        },
+        {
+          "name": "hot_air_balloon"
+        },
+        {
+          "name": "map"
+        },
+        {
+          "name": "motel"
+        },
+        {
+          "name": "opera_house"
+        },
+        {
+          "name": "plane"
+        },
+        {
+          "name": "rome"
+        },
+        {
+          "name": "statue_of_liberty"
+        },
+        {
+          "name": "steamship"
+        },
+        {
+          "name": "taxi"
+        },
+        {
+          "name": "tent"
+        },
+        {
+          "name": "train"
+        },
+        {
+          "name": "uavs"
+        }
+      ]
+    },
+    {
+      "name": "Other",
+      "items": [
+        {
+          "name": "box"
+        },
+        {
+          "name": "gamepad"
+        },
+        {
+          "name": "keyboard"
+        },
+        {
+          "name": "lock"
+        },
+        {
+          "name": "mobile_phone"
+        },
+        {
+          "name": "mouse"
+        },
+        {
+          "name": "organizationchart"
+        },
+        {
+          "name": "pac_man"
+        },
+        {
+          "name": "settings"
+        },
+        {
+          "name": "shopping"
+        },
+        {
+          "name": "storage"
+        }
+      ]
+    }
+  ]
+}

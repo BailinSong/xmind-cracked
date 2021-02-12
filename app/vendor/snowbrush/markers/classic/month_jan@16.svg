@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40 (33762) - http://www.bohemiancoding.com/sketch -->
+    <title>month_jan copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="16" rx="2"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="16" height="16" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="16" height="16" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="97.4232093%" id="linearGradient-5">
+            <stop stop-color="#00B0FF" offset="0%"></stop>
+            <stop stop-color="#0097F4" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="最终稿2.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="month-copy">
+            <g id="month_jan">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask" stroke="#CFCFCF" mask="url(#mask-2)" stroke-width="0.8" fill="#FAFAFA">
+                    <use mask="url(#mask-4)" xlink:href="#path-1"></use>
+                </g>
+                <rect id="Rectangle-15" fill="url(#linearGradient-5)" mask="url(#mask-3)" x="0" y="0" width="16" height="5"></rect>
+                <path d="M6.40805288,9.30176768 L6.40805288,8.54395518 C6.75961714,8.5283301 7.00570842,8.50489283 7.14633413,8.47364268 C7.37029358,8.42416326 7.55258342,8.32520592 7.69320913,8.17676768 C7.78956378,8.07520467 7.86247971,7.93978936 7.91195913,7.77051768 C7.9406051,7.66895467 7.95492788,7.59343459 7.95492788,7.54395518 L8.88070913,7.54395518 L8.88070913,13.2080177 L7.74008413,13.2080177 L7.74008413,9.30176768 L6.40805288,9.30176768 Z" id="1" fill="#6C6C6C" mask="url(#mask-3)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

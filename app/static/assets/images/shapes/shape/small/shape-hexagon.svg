@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="10px" viewBox="0 0 14 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>hexagon-b</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="16"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标-copy" transform="translate(-446.000000, -1577.000000)">
+            <g id="hexagon-b" transform="translate(445.000000, 1574.000000)">
+                <path d="M3.02378421,3.5 L1.52689066,8.06204145 L3.02086884,12.5 L12.9775728,12.5 L14.4731132,7.99634092 L12.9777447,3.5 L3.02378421,3.5 Z" id="Rectangle-2" stroke="#434B54"></path>
+                <g id="ic_rectangle" opacity="0">
+                    <use fill="#FB5151" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#DEDEDE" stroke-width="0.81" x="0.405" y="0.405" width="15.19" height="15.19"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

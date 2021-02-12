@@ -1,0 +1,1030 @@
+{
+  "Arvo": [
+    {
+      "style": "Regular",
+      "weight": 400,
+      "italic": false,
+      "src": "fonts/Arvo-Regular.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Italic",
+      "weight": 400,
+      "italic": true,
+      "src": "fonts/Arvo-Italic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Bold",
+      "weight": 700,
+      "italic": false,
+      "src": "fonts/Arvo-Bold.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Bold Italic",
+      "weight": 700,
+      "italic": true,
+      "src": "fonts/Arvo-BoldItalic.ttf",
+      "format": "truetype"
+    }
+  ],
+  "Droid Serif": [
+    {
+      "style": "Regular",
+      "weight": 400,
+      "italic": false,
+      "src": "fonts/DroidSerif-Regular.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Italic",
+      "weight": 400,
+      "italic": true,
+      "src": "fonts/DroidSerif-Italic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Bold",
+      "weight": 700,
+      "italic": false,
+      "src": "fonts/DroidSerif-Bold.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Bold Italic",
+      "weight": 700,
+      "italic": true,
+      "src": "fonts/DroidSerif-BoldItalic.ttf",
+      "format": "truetype"
+    }
+  ],
+  "Indie Flower": [
+    {
+      "style": "Regular",
+      "weight": 400,
+      "italic": false,
+      "src": "fonts/IndieFlower.ttf",
+      "format": "truetype"
+    }
+  ],
+  "Lobster Two": [
+    {
+      "style": "Regular",
+      "weight": 400,
+      "italic": false,
+      "src": "fonts/LobsterTwo-Regular.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Italic",
+      "weight": 400,
+      "italic": true,
+      "src": "fonts/LobsterTwo-Italic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Bold",
+      "weight": 700,
+      "italic": false,
+      "src": "fonts/LobsterTwo-Bold.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Bold Italic",
+      "weight": 700,
+      "italic": true,
+      "src": "fonts/LobsterTwo-BoldItalic.ttf",
+      "format": "truetype"
+    }
+  ],
+  "Montserrat": [
+    {
+      "style": "Thin",
+      "weight": 100,
+      "italic": false,
+      "src": "fonts/Montserrat-Thin.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Thin Italic",
+      "weight": 100,
+      "italic": true,
+      "src": "fonts/Montserrat-ThinItalic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "ExtraLight",
+      "weight": 200,
+      "italic": false,
+      "src": "fonts/Montserrat-ExtraLight.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "ExtraLight Italic",
+      "weight": 200,
+      "italic": true,
+      "src": "fonts/Montserrat-ExtraLightItalic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Light",
+      "weight": 300,
+      "italic": false,
+      "src": "fonts/Montserrat-Light.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Light Italic",
+      "weight": 300,
+      "italic": true,
+      "src": "fonts/Montserrat-LightItalic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Regular",
+      "weight": 400,
+      "italic": false,
+      "src": "fonts/Montserrat-Regular.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Italic",
+      "weight": 400,
+      "italic": true,
+      "src": "fonts/Montserrat-Italic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Medium",
+      "weight": 500,
+      "italic": false,
+      "src": "fonts/Montserrat-Medium.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Medium Italic",
+      "weight": 500,
+      "italic": true,
+      "src": "fonts/Montserrat-MediumItalic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Semibold",
+      "weight": 600,
+      "italic": false,
+      "src": "fonts/Montserrat-SemiBold.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Semibold Italic",
+      "weight": 600,
+      "italic": true,
+      "src": "fonts/Montserrat-SemiBoldItalic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Bold",
+      "weight": 700,
+      "italic": false,
+      "src": "fonts/Montserrat-Bold.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Bold Italic",
+      "weight": 700,
+      "italic": true,
+      "src": "fonts/Montserrat-BoldItalic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "ExtraBold",
+      "weight": 800,
+      "italic": false,
+      "src": "fonts/Montserrat-ExtraBold.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "ExtraBold Italic",
+      "weight": 800,
+      "italic": true,
+      "src": "fonts/Montserrat-ExtraBoldItalic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Black",
+      "weight": 900,
+      "italic": false,
+      "src": "fonts/Montserrat-Black.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Black Italic",
+      "weight": 900,
+      "italic": true,
+      "src": "fonts/Montserrat-BlackItalic.ttf",
+      "format": "truetype"
+    }
+  ],
+  "Nunito": [
+    {
+      "style": "ExtraLight",
+      "weight": 200,
+      "italic": false,
+      "src": "fonts/Nunito-ExtraLight.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "ExtraLight Italic",
+      "weight": 200,
+      "italic": true,
+      "src": "fonts/Nunito-ExtraLightItalic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Light",
+      "weight": 300,
+      "italic": false,
+      "src": "fonts/Nunito-Light.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Light Italic",
+      "weight": 300,
+      "italic": true,
+      "src": "fonts/Nunito-LightItalic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Regular",
+      "weight": 400,
+      "italic": false,
+      "src": "fonts/Nunito-Regular.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Italic",
+      "weight": 400,
+      "italic": true,
+      "src": "fonts/Nunito-Italic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Semibold",
+      "weight": 600,
+      "italic": false,
+      "src": "fonts/Nunito-SemiBold.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Semibold Italic",
+      "weight": 600,
+      "italic": true,
+      "src": "fonts/Nunito-SemiBoldItalic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Bold",
+      "weight": 700,
+      "italic": false,
+      "src": "fonts/Nunito-Bold.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Bold Italic",
+      "weight": 700,
+      "italic": true,
+      "src": "fonts/Nunito-BoldItalic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "ExtraBold",
+      "weight": 800,
+      "italic": false,
+      "src": "fonts/Nunito-ExtraBold.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "ExtraBold Italic",
+      "weight": 800,
+      "italic": true,
+      "src": "fonts/Nunito-ExtraBoldItalic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Black",
+      "weight": 900,
+      "italic": false,
+      "src": "fonts/Nunito-Black.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Black Italic",
+      "weight": 900,
+      "italic": true,
+      "src": "fonts/Nunito-BlackItalic.ttf",
+      "format": "truetype"
+    }
+  ],
+  "Nunito Sans": [
+    {
+      "style": "ExtraLight",
+      "weight": 200,
+      "italic": false,
+      "src": "fonts/NunitoSans-ExtraLight.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "ExtraLight Italic",
+      "weight": 200,
+      "italic": true,
+      "src": "fonts/NunitoSans-ExtraLightItalic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Light",
+      "weight": 300,
+      "italic": false,
+      "src": "fonts/NunitoSans-Light.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Light Italic",
+      "weight": 300,
+      "italic": true,
+      "src": "fonts/NunitoSans-LightItalic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Regular",
+      "weight": 400,
+      "italic": false,
+      "src": "fonts/NunitoSans-Regular.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Italic",
+      "weight": 400,
+      "italic": true,
+      "src": "fonts/NunitoSans-Italic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Semibold",
+      "weight": 600,
+      "italic": false,
+      "src": "fonts/NunitoSans-SemiBold.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Semibold Italic",
+      "weight": 600,
+      "italic": true,
+      "src": "fonts/NunitoSans-SemiBoldItalic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Bold",
+      "weight": 700,
+      "italic": false,
+      "src": "fonts/NunitoSans-Bold.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Bold Italic",
+      "weight": 700,
+      "italic": true,
+      "src": "fonts/NunitoSans-BoldItalic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "ExtraBold",
+      "weight": 800,
+      "italic": false,
+      "src": "fonts/NunitoSans-ExtraBold.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "ExtraBold Italic",
+      "weight": 800,
+      "italic": true,
+      "src": "fonts/NunitoSans-ExtraBoldItalic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Black",
+      "weight": 900,
+      "italic": false,
+      "src": "fonts/NunitoSans-Black.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Black Italic",
+      "weight": 900,
+      "italic": true,
+      "src": "fonts/NunitoSans-BlackItalic.ttf",
+      "format": "truetype"
+    }
+  ],
+  "Open Sans": [
+    {
+      "style": "Light",
+      "weight": 300,
+      "italic": false,
+      "src": "fonts/OpenSans-Light.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Light Italic",
+      "weight": 300,
+      "italic": true,
+      "src": "fonts/OpenSans-LightItalic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Regular",
+      "weight": 400,
+      "italic": false,
+      "src": "fonts/OpenSans-Regular.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Italic",
+      "weight": 400,
+      "italic": true,
+      "src": "fonts/OpenSans-Italic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Semibold",
+      "weight": 600,
+      "italic": false,
+      "src": "fonts/OpenSans-SemiBold.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Semibold Italic",
+      "weight": 600,
+      "italic": true,
+      "src": "fonts/OpenSans-SemiBoldItalic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Bold",
+      "weight": 700,
+      "italic": false,
+      "src": "fonts/OpenSans-Bold.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Bold Italic",
+      "weight": 700,
+      "italic": true,
+      "src": "fonts/OpenSans-BoldItalic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "ExtraBold",
+      "weight": 800,
+      "italic": false,
+      "src": "fonts/OpenSans-ExtraBold.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "ExtraBold Italic",
+      "weight": 800,
+      "italic": true,
+      "src": "fonts/OpenSans-ExtraBoldItalic.ttf",
+      "format": "truetype"
+    }
+  ],
+  "Poiret One": [
+    {
+      "style": "Regular",
+      "weight": 400,
+      "italic": false,
+      "src": "fonts/PoiretOne-Regular.ttf",
+      "format": "truetype"
+    }
+  ],
+  "Raleway": [
+    {
+      "style": "Thin",
+      "weight": 100,
+      "italic": false,
+      "src": "fonts/Raleway-Thin.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Thin Italic",
+      "weight": 100,
+      "italic": true,
+      "src": "fonts/Raleway-ThinItalic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "ExtraLight",
+      "weight": 200,
+      "italic": false,
+      "src": "fonts/Raleway-ExtraLight.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "ExtraLight Italic",
+      "weight": 200,
+      "italic": true,
+      "src": "fonts/Raleway-ExtraLightItalic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Light",
+      "weight": 300,
+      "italic": false,
+      "src": "fonts/Raleway-Light.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Light Italic",
+      "weight": 300,
+      "italic": true,
+      "src": "fonts/Raleway-LightItalic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Regular",
+      "weight": 400,
+      "italic": false,
+      "src": "fonts/Raleway-Regular.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Italic",
+      "weight": 400,
+      "italic": true,
+      "src": "fonts/Raleway-Italic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Medium",
+      "weight": 500,
+      "italic": false,
+      "src": "fonts/Raleway-Medium.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Medium Italic",
+      "weight": 500,
+      "italic": true,
+      "src": "fonts/Raleway-MediumItalic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Semibold",
+      "weight": 600,
+      "italic": false,
+      "src": "fonts/Raleway-SemiBold.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Semibold Italic",
+      "weight": 600,
+      "italic": true,
+      "src": "fonts/Raleway-SemiBoldItalic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Bold",
+      "weight": 700,
+      "italic": false,
+      "src": "fonts/Raleway-Bold.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Bold Italic",
+      "weight": 700,
+      "italic": true,
+      "src": "fonts/Raleway-BoldItalic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "ExtraBold",
+      "weight": 800,
+      "italic": false,
+      "src": "fonts/Raleway-ExtraBold.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "ExtraBold Italic",
+      "weight": 800,
+      "italic": true,
+      "src": "fonts/Raleway-ExtraBoldItalic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Black",
+      "weight": 900,
+      "italic": false,
+      "src": "fonts/Raleway-Black.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Black Italic",
+      "weight": 900,
+      "italic": true,
+      "src": "fonts/Raleway-BlackItalic.ttf",
+      "format": "truetype"
+    }
+  ],
+  "Raleway Dots": [
+    {
+      "style": "Regular",
+      "weight": 400,
+      "italic": false,
+      "src": "fonts/RalewayDots-Regular.ttf",
+      "format": "truetype"
+    }
+  ],
+  "Roboto": [
+    {
+      "style": "Thin",
+      "weight": 100,
+      "italic": false,
+      "src": "fonts/Roboto-Thin.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Thin Italic",
+      "weight": 100,
+      "italic": true,
+      "src": "fonts/Roboto-ThinItalic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Light",
+      "weight": 300,
+      "italic": false,
+      "src": "fonts/Roboto-Light.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Light Italic",
+      "weight": 300,
+      "italic": true,
+      "src": "fonts/Roboto-LightItalic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Regular",
+      "weight": 400,
+      "italic": false,
+      "src": "fonts/Roboto-Regular.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Italic",
+      "weight": 400,
+      "italic": true,
+      "src": "fonts/Roboto-Italic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Medium",
+      "weight": 500,
+      "italic": false,
+      "src": "fonts/Roboto-Medium.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Medium Italic",
+      "weight": 500,
+      "italic": true,
+      "src": "fonts/Roboto-MediumItalic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Bold",
+      "weight": 700,
+      "italic": false,
+      "src": "fonts/Roboto-Bold.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Bold Italic",
+      "weight": 700,
+      "italic": true,
+      "src": "fonts/Roboto-BoldItalic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Black",
+      "weight": 900,
+      "italic": false,
+      "src": "fonts/Roboto-Black.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Black Italic",
+      "weight": 900,
+      "italic": true,
+      "src": "fonts/Roboto-BlackItalic.ttf",
+      "format": "truetype"
+    }
+  ],
+  "Roboto Condensed": [
+    {
+      "style": "Light",
+      "weight": 300,
+      "italic": false,
+      "src": "fonts/RobotoCondensed-Light.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Light Italic",
+      "weight": 300,
+      "italic": true,
+      "src": "fonts/RobotoCondensed-LightItalic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Regular",
+      "weight": 400,
+      "italic": false,
+      "src": "fonts/RobotoCondensed-Regular.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Italic",
+      "weight": 400,
+      "italic": true,
+      "src": "fonts/RobotoCondensed-Italic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Bold",
+      "weight": 700,
+      "italic": false,
+      "src": "fonts/RobotoCondensed-Bold.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Bold Italic",
+      "weight": 700,
+      "italic": true,
+      "src": "fonts/RobotoCondensed-BoldItalic.ttf",
+      "format": "truetype"
+    }
+  ],
+  "Roboto Slab": [
+    {
+      "style": "Thin",
+      "weight": 100,
+      "italic": false,
+      "src": "fonts/RobotoSlab-Thin.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Light",
+      "weight": 300,
+      "italic": false,
+      "src": "fonts/RobotoSlab-Light.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Regular",
+      "weight": 400,
+      "italic": false,
+      "src": "fonts/RobotoSlab-Regular.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Bold",
+      "weight": 700,
+      "italic": false,
+      "src": "fonts/RobotoSlab-Bold.ttf",
+      "format": "truetype"
+    }
+  ],
+  "NeverMind": [
+    {
+      "style": "Bold",
+      "weight": 700,
+      "italic": false,
+      "src": "fonts/NeverMind-Bold.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Bold Italic",
+      "weight": 700,
+      "italic": true,
+      "src": "fonts/NeverMind-Bolditalic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Demibold",
+      "weight": 600,
+      "italic": false,
+      "src": "fonts/NeverMind-DemiBold.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Demibold Italic",
+      "weight": 600,
+      "italic": true,
+      "src": "fonts/NeverMind-DemiBolditalic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Medium",
+      "weight": 500,
+      "italic": false,
+      "src": "fonts/NeverMind-Medium.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Medium Italic",
+      "weight": 500,
+      "italic": true,
+      "src": "fonts/NeverMind-Mediumitalic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Regular",
+      "weight": 400,
+      "italic": false,
+      "src": "fonts/NeverMind-Regular.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Regular Italic",
+      "weight": 400,
+      "italic": true,
+      "src": "fonts/NeverMind-Regularitalic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Light",
+      "weight": 300,
+      "italic": false,
+      "src": "fonts/NeverMind-Light.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Light Italic",
+      "weight": 300,
+      "italic": true,
+      "src": "fonts/NeverMind-Lightitalic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "ExtraLight",
+      "weight": 200,
+      "italic": false,
+      "src": "fonts/NeverMind-ExtraLight.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "ExtraLight Italic",
+      "weight": 200,
+      "italic": true,
+      "src": "fonts/NeverMind-ExtraLightitalic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Thin",
+      "weight": 100,
+      "italic": false,
+      "src": "fonts/NeverMind-Thin.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Thin Italic",
+      "weight": 100,
+      "italic": true,
+      "src": "fonts/NeverMind-Thinitalic.ttf",
+      "format": "truetype"
+    }
+  ],
+  "NeverMind Condense": [
+    {
+      "style": "Bold",
+      "weight": 700,
+      "italic": false,
+      "src": "fonts/NeverMind-CondensedBold.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Bold Italic",
+      "weight": 700,
+      "italic": true,
+      "src": "fonts/NeverMind-CondensedBolditalic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Demibold",
+      "weight": 600,
+      "italic": false,
+      "src": "fonts/NeverMind-CondensedDemiBold.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Demibold Italic",
+      "weight": 600,
+      "italic": true,
+      "src": "fonts/NeverMind-CondensedDemiBolditalic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Medium",
+      "weight": 500,
+      "italic": false,
+      "src": "fonts/NeverMind-CondensedMedium.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Medium Italic",
+      "weight": 500,
+      "italic": true,
+      "src": "fonts/NeverMind-CondensedMediumitalic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Regular",
+      "weight": 400,
+      "italic": false,
+      "src": "fonts/NeverMind-CondensedRegular.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Regular Italic",
+      "weight": 400,
+      "italic": true,
+      "src": "fonts/NeverMind-CondensedRegularitalic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Light",
+      "weight": 300,
+      "italic": false,
+      "src": "fonts/NeverMind-CondensedLight.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Light Italic",
+      "weight": 300,
+      "italic": true,
+      "src": "fonts/NeverMind-CondensedLightitalic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "ExtraLight",
+      "weight": 200,
+      "italic": false,
+      "src": "fonts/NeverMind-CondensedExtraLight.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "ExtraLight Italic",
+      "weight": 200,
+      "italic": true,
+      "src": "fonts/NeverMind-CondensedExtraLightitalic.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Thin",
+      "weight": 100,
+      "italic": false,
+      "src": "fonts/NeverMind-CondensedThin.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Thin Italic",
+      "weight": 100,
+      "italic": true,
+      "src": "fonts/NeverMind-CondensedThinitalic.ttf",
+      "format": "truetype"
+    }
+  ],
+  "Kalam": [
+    {
+      "style": "Bold",
+      "weight": 700,
+      "italic": false,
+      "src": "fonts/Kalam-Bold.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Light",
+      "weight": 300,
+      "italic": false,
+      "src": "fonts/Kalam-Light.ttf",
+      "format": "truetype"
+    },
+    {
+      "style": "Regular",
+      "weight": 400,
+      "italic": false,
+      "src": "fonts/Kalam-Regular.ttf",
+      "format": "truetype"
+    }
+  ]
+}

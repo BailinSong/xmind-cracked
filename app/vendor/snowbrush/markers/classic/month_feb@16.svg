@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40 (33762) - http://www.bohemiancoding.com/sketch -->
+    <title>month_feb copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="16" rx="2"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="16" height="16" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="16" height="16" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="97.4232093%" id="linearGradient-5">
+            <stop stop-color="#00B0FF" offset="0%"></stop>
+            <stop stop-color="#0097F4" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="最终稿2.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="month-copy" transform="translate(-21.000000, 0.000000)">
+            <g id="month_feb" transform="translate(21.000000, 0.000000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask" stroke="#CFCFCF" mask="url(#mask-2)" stroke-width="0.8" fill="#FAFAFA">
+                    <use mask="url(#mask-4)" xlink:href="#path-1"></use>
+                </g>
+                <rect id="Rectangle-15" fill="url(#linearGradient-5)" mask="url(#mask-3)" x="0" y="0" width="16" height="5"></rect>
+                <path d="M6.36508413,12.0947364 C6.52393909,11.7171304 6.89893534,11.3173948 7.49008413,10.8955177 C8.00310753,10.5283283 8.33513546,10.2653101 8.48617788,10.1064552 C8.71794987,9.85905811 8.83383413,9.58822748 8.83383413,9.29395518 C8.83383413,9.05437065 8.76742854,8.85515389 8.63461538,8.69629893 C8.50180221,8.53744397 8.31169995,8.45801768 8.06430288,8.45801768 C7.72575952,8.45801768 7.49529307,8.5843185 7.37289663,8.83692393 C7.30258378,8.98275799 7.26091753,9.2145265 7.24789663,9.53223643 L6.16586538,9.53223643 C6.18409464,9.05046318 6.27133335,8.66114416 6.42758413,8.36426768 C6.72446061,7.79916068 7.25179909,7.51661143 8.00961538,7.51661143 C8.60857671,7.51661143 9.08513444,7.68262539 9.43930288,8.0146583 C9.79347131,8.34669121 9.97055288,8.78613994 9.97055288,9.33301768 C9.97055288,9.75229061 9.84555413,10.1246827 9.59555288,10.4502052 C9.43148956,10.6663521 9.161961,10.9072351 8.78695913,11.1728614 L8.34164663,11.4892677 C8.0629994,11.6871853 7.8722461,11.8304131 7.769381,11.9189552 C7.6665159,12.0074973 7.57992823,12.1103608 7.50961538,12.2275489 L9.98227163,12.2275489 L9.98227163,13.2080177 L6.10336538,13.2080177 C6.1137821,12.8017656 6.20102081,12.4306756 6.36508413,12.0947364 L6.36508413,12.0947364 Z" id="2" fill="#6C6C6C" mask="url(#mask-3)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

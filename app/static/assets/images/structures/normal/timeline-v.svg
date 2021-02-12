@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="84px" height="40px" viewBox="0 0 84 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56 (81588) - https://sketch.com -->
+    <title>timeline-v</title>
+    <desc>Created with Sketch.</desc>
+    <g id="timeline-v" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-31-Copy-2" transform="translate(42.000000, 19.500000) scale(-1, 1) translate(-42.000000, -19.500000) translate(30.000000, 3.500000)" stroke="#000000">
+            <rect id="Rectangle" stroke-width="2" x="1" y="1.5" width="22" height="10" rx="0.7"></rect>
+            <rect id="Rectangle-Copy-3" stroke-width="1.5" fill="#000000" x="17.75" y="18.25" width="2.5" height="2.5" rx="1.25"></rect>
+            <rect id="Rectangle-Copy-4" stroke-width="1.5" fill="#000000" x="3.75" y="23.25" width="2.5" height="2.5" rx="1.25"></rect>
+            <rect id="Rectangle-Copy-6" stroke-width="1.5" fill="#000000" x="17.75" y="28.25" width="2.5" height="2.5" rx="1.25"></rect>
+            <path d="M18,19.5 L14,19.5 C12.8954305,19.5 12,18.6045695 12,17.5 L12,11" id="Path-14-Copy-2" stroke-width="2"></path>
+            <path d="M12,16 L12,22.5 C12,23.6045695 11.1045695,24.5 10,24.5 L6,24.5" id="Path-14-Copy-3" stroke-width="2"></path>
+            <path d="M18,29.5 L14,29.5 C12.8954305,29.5 12,28.6045695 12,27.5 L12,10.5" id="Path-14-Copy-2" stroke-width="2"></path>
+        </g>
+    </g>
+</svg>

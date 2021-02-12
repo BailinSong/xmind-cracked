@@ -1,0 +1,31 @@
+{
+  "id": "{{_UUID_}}",
+  "class": "sheet",
+  "title": "{{Map 1}}",
+  "rootTopic": {
+    "id": "e39980d610895960e2fcf856ec",
+    "class": "topic",
+    "title": "{{Management}}",
+    "structureClass": "org.xmind.ui.org-chart.down",
+    "titleUnedited": true,
+    "children": {
+      "attached": [
+        {
+          "id": "b8d883dae089a55b38da0be900",
+          "title": "{{Finance}}",
+          "titleUnedited": true
+        },
+        {
+          "id": "c79a8338b94a430964b5f8ab1c",
+          "title": "{{Marketing}}",
+          "titleUnedited": true
+        },
+        {
+          "id": "c1d6a306-27ba-44a4-bc5f-886d36dd814b",
+          "title": "{{Product}}",
+          "titleUnedited": true
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>Topic</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="108.737158%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFA726" offset="0%"></stop>
+            <stop stop-color="#FB8C00" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="27.2664197%" y1="22.4004062%" x2="81.713685%" y2="90.3870549%" id="linearGradient-2">
+            <stop stop-color="#FFF59D" offset="0%"></stop>
+            <stop stop-color="#FFEE58" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-3" points="10.9960938 3.17431084 10.9960938 4.70360772 8.41210938 4.70360772 8.41210938 11.8110296 6.59570312 11.8110296 6.59570312 4.70360772 4 4.70360772 4 3.17431084"></polygon>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0.3" dy="0.3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.15" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.933620323   0 0 0 0 0.526362075   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="1.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon" transform="translate(-206.000000, -24.000000)">
+            <g transform="translate(95.000000, 23.000000)" id="Topic">
+                <g transform="translate(111.473188, 1.476229)">
+                    <rect id="Rectangle-14" fill="url(#linearGradient-1)" x="0" y="0" width="15" height="15" rx="2"></rect>
+                    <g id="T">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                        <use fill="url(#linearGradient-2)" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

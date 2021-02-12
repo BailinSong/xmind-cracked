@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="10px" viewBox="0 0 14 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>elliptic-rectangle-b</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="16"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标-copy" transform="translate(-468.000000, -1577.000000)">
+            <g id="elliptic-rectangle-b" transform="translate(467.000000, 1574.000000)">
+                <path d="M1.55235219,4.62542383 C1.52112129,4.63564909 1.5,4.66478891 1.5,4.69765113 L1.5,11.4024157 C1.5,11.4354418 1.52132901,11.4646877 1.55277536,11.4747801 C3.68306712,12.1584765 5.83155633,12.5 8,12.5 C10.1684437,12.5 12.3169329,12.1584765 14.4472247,11.4747801 C14.478671,11.4646877 14.5,11.4354418 14.5,11.4024157 L14.5,4.69765112 C14.5,4.66478891 14.4788787,4.63564909 14.4476478,4.62542383 C12.1536867,3.87436199 10.0045809,3.5 8,3.5 C5.99541905,3.5 3.84631335,3.87436199 1.55235219,4.62542383 Z" id="Rectangle-6" stroke="#434B54"></path>
+                <g id="ic_rectangle" opacity="0">
+                    <use fill="#FB5151" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#DEDEDE" stroke-width="0.81" x="0.405" y="0.405" width="15.19" height="15.19"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

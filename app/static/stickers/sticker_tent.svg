@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>tent</title>
+    <g id="tent" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle备份" x="0" y="0" width="64" height="64"></rect>
+        <g id="编组" transform="translate(3.500000, 14.000000)">
+            <path d="M17.0997096,-1.5 L11.4252749,-1.5 L11.4250169,4.03124148 L-1.5,29.2714712 L-1.5,35.5901639 L58.5491803,35.5901639 L58.5491803,29.2714491 L45.6233511,4.03136178 L45.6242077,-1.5 L39.9502159,-1.5 L39.9497159,0.282 L17.0993243,0.282 L17.0997096,-1.5 Z" id="bb" stroke="#FFFFFF" stroke-width="3" fill-rule="nonzero"></path>
+            <path d="M16.3495474,-0.75 L12.1752399,-0.75 L12.1750084,4.21212074 L-0.75,29.4523339 L-0.75,34.8401639 L57.7991803,34.8401639 L57.7991803,29.4523229 L44.8733231,4.21218089 L44.8740916,-0.75 L40.7000055,-0.75 L40.6995055,1.032 L16.3491622,1.032 L16.3495474,-0.75 Z" id="bb" stroke="#000000" stroke-width="1.5" fill-rule="nonzero"></path>
+            <path d="M44.1239754,0 L44.1232951,4.393 L57.0491803,29.6331967 L14.2622951,29.6331967 L14.2622951,1.78278689 L41.4492951,1.782 L41.4497951,0 L44.1239754,0 Z" id="Mask" fill="#ED6969" fill-rule="nonzero"></path>
+            <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="34.0604508 1.78278689 34.0901639 4.45654872 46.5696721 29.6331967 41.0480371 29.6331967 28.5365044 4.45654872 28.5245902 1.78278689"></polygon>
+            <path d="M15.5993852,7.10542736e-14 L15.599,4.393 L28.5245902,29.6331967 L0,29.6331967 L12.925,4.393 L12.9252049,7.10542736e-14 L15.5993852,7.10542736e-14 Z" id="形状结合" fill="#FFC55D" fill-rule="nonzero"></path>
+            <polygon id="Rectangle" fill="#ED6969" fill-rule="nonzero" points="-1.97929105e-16 29.6331967 57.0491803 29.6331967 57.0491803 34.0901639 -1.97929105e-16 34.0901639"></polygon>
+            <polygon id="Rectangle" fill="#FFC55D" fill-rule="nonzero" points="-9.89645524e-17 29.6331967 28.5245902 29.6331967 28.5245902 34.0901639 -9.89645524e-17 34.0901639"></polygon>
+            <polygon id="Path-304" fill="#CC9E4A" fill-rule="nonzero" points="14.2622951 14.627237 14.2622951 29.6331967 7.2397541 29.6331967"></polygon>
+            <polygon id="Path-304" fill="#CC9E4A" fill-rule="nonzero" transform="translate(17.773566, 22.130217) scale(-1, 1) translate(-17.773566, -22.130217) " points="21.2848361 14.627237 21.2848361 29.6331967 14.2622951 29.6331967"></polygon>
+            <line x1="0" y1="29.6331967" x2="57.7852455" y2="29.6331967" id="路径-2" stroke="#000000" stroke-width="1.5"></line>
+            <polyline id="路径-3" stroke="#000000" stroke-width="1.5" points="16.3319281 0.627556926 16.3319281 4.04612185 29 29.6331967 29 35"></polyline>
+        </g>
+    </g>
+</svg>

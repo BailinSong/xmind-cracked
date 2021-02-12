@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>angry</title>
+    <g id="angry" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-" x="0" y="0" width="64" height="64"></rect>
+        <circle id="Oval-" stroke="#FFFFFF" stroke-width="1.5" fill="#F56060" cx="32" cy="32" r="25.75"></circle>
+        <path d="M31.8526461,44.475525 C37.5746396,44.475525 42,46.6510836 42,45.7836384 C42,44.9161933 37.5746396,40 31.8526461,40 C26.1306526,40 22,44.8816045 22,45.7836384 C22,46.6856724 26.1306526,44.475525 31.8526461,44.475525 Z" id="Oval--" fill="#602E2D"></path>
+        <path d="M55.6640213,24.0064126 L55.7170607,24.1593237 C56.549326,26.6383552 57,29.2902628 57,32.0465453 C57,45.8279578 45.7331504,57 31.8347871,57 C19.3262601,57 8.94925921,47.9506458 6.9989443,36.0941253 L7.07359799,36.3117639 C10.5110922,46.0349757 19.8484715,53.0074473 30.8281786,53.0074473 C44.7265419,53.0074473 55.9933915,41.8354051 55.9933915,28.0539926 C55.9933915,26.6758513 55.880723,25.3238038 55.6640213,24.0064126 Z" id="Combined-Shape" fill="#EE4848"></path>
+        <ellipse id="Oval-" fill="#602E2D" cx="25" cy="32" rx="3" ry="4"></ellipse>
+        <ellipse id="Oval--" fill="#602E2D" cx="39" cy="32" rx="3" ry="4"></ellipse>
+        <path d="M16,30 C18.0884738,27.633486 21.2917925,25.5125841 27,26.0984948" id="Path-" stroke="#602E2D" stroke-width="3" stroke-linecap="round" transform="translate(21.500000, 28.000000) scale(-1, 1) translate(-21.500000, -28.000000) "></path>
+        <path d="M37,30 C39.1497398,27.3685802 42.2390724,25.6989702 48,26.04532" id="Path-" stroke="#602E2D" stroke-width="3" stroke-linecap="round"></path>
+    </g>
+</svg>

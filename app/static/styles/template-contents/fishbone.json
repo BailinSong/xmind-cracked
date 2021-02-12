@@ -1,0 +1,60 @@
+{
+  "id": "{{_UUID_}}",
+  "class": "sheet",
+  "title": "{{Map 1}}",
+  "rootTopic": {
+    "id": "4c3b43db18bb187afe9cfaa7a2",
+    "class": "topic",
+    "title": "{{Problem}}",
+    "structureClass": "org.xmind.ui.fishbone.leftHeaded",
+    "titleUnedited": true,
+    "children": {
+      "attached": [
+        {
+          "id": "2588085f81bb09ca1a51f90008",
+          "title": "{{People}}",
+          "titleUnedited": true
+        },
+        {
+          "id": "02fbc0ad387b8bea583f09db2e",
+          "title": "{{Method}}",
+          "titleUnedited": true
+        },
+        {
+          "id": "515e2389-af3b-47d0-8d7a-e88609219e14",
+          "title": "{{Materials}}",
+          "titleUnedited": true
+        }
+      ]
+    },
+    "extensions": [
+      {
+        "content": [
+          {
+            "content": "2",
+            "name": "right-number"
+          }
+        ],
+        "provider": "org.xmind.ui.map.unbalanced"
+      },
+      {
+        "provider": "org.xmind.ui.spreadsheet",
+        "content": [
+          {
+            "name": "columns",
+            "content": [
+              {
+                "name": "column",
+                "content": "{{Strengths}}"
+              },
+              {
+                "name": "column",
+                "content": "{{Weakness}}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

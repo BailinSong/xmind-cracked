@@ -1,0 +1,247 @@
+{
+  "id": "{{_UUID_}}",
+  "class": "sheet",
+  "title": "{{Map 1}}",
+  "rootTopic": {
+    "id": "{{_UUID_}}",
+    "class": "topic",
+    "title": "{{Central Topic}}",
+    "structureClass": "{{_structureClass_}}",
+    "titleUnedited": true,
+    "children": {
+      "attached": [
+        {
+          "id": "{{_UUID_}}",
+          "title": "{{Main Topic 1}}",
+          "titleUnedited": true
+        },
+        {
+          "id": "{{_UUID_}}",
+          "title": "{{Main Topic 2}}",
+          "titleUnedited": true
+        }
+      ]
+    },
+    "extensions": [
+      {
+        "content": [
+          {
+            "content": "2",
+            "name": "right-number"
+          }
+        ],
+        "provider": "org.xmind.ui.map.unbalanced"
+      }
+    ]
+  },
+  "theme": {
+    "class": "theme",
+    "id": "e460614c-dbc0-4a27-aff4-027096ed9c5e",
+    "name": "Icy web",
+    "boundary": {
+      "properties": {
+        "fo:color": "#344581",
+        "fo:font-family": "Arial",
+        "fo:font-size": "12pt",
+        "fo:font-style": "italic",
+        "fo:font-weight": "bold",
+        "fo:text-align": "center",
+        "fo:text-decoration": "none",
+        "fo:text-transform": "manual",
+        "line-color": "#82BAE1",
+        "line-pattern": "dash",
+        "line-width": "2pt",
+        "shape-class": "org.xmind.boundaryShape.waves",
+        "svg:fill": "#acd4f9",
+        "svg:opacity": ".5"
+      },
+      "styleId": "70ci8ubng7ohgt84b4i38l2bdd",
+      "type": "boundary"
+    },
+    "calloutTopic": {
+      "properties": {
+        "border-line-color": "#4c78ca",
+        "border-line-width": "0pt",
+        "callout-shape-class": "org.xmind.calloutTopicShape.balloon.roundedRect",
+        "fo:color": "#FFFFFF",
+        "fo:font-family": "Arial",
+        "fo:font-size": "12pt",
+        "fo:font-style": "italic",
+        "fo:font-weight": "bold",
+        "fo:text-align": "center",
+        "fo:text-decoration": "none",
+        "fo:text-transform": "manual",
+        "line-class": "org.xmind.branchConnection.roundedElbow",
+        "line-color": "#4c78ca",
+        "line-width": "1pt",
+        "svg:fill": "#4c78ca"
+      },
+      "styleId": "55mpe45e03kj3pdafeetjsvep3",
+      "type": "topic"
+    },
+    "centralTopic": {
+      "properties": {
+        "border-line-color": "#4c78ca",
+        "border-line-width": "3pt",
+        "fo:color": "#16183c",
+        "fo:font-family": "Arial",
+        "fo:font-size": "24pt",
+        "fo:font-style": "normal",
+        "fo:font-weight": "normal",
+        "fo:text-align": "center",
+        "fo:text-decoration": "none",
+        "fo:text-transform": "manual",
+        "line-class": "org.xmind.branchConnection.curve",
+        "line-color": "#4c78ca",
+        "line-width": "2pt",
+        "shape-class": "org.xmind.topicShape.roundedRect",
+        "svg:fill": "#FFFFFF"
+      },
+      "styleId": "6blscbkpv4sabn8b3erc7p39pl",
+      "type": "topic"
+    },
+    "floatingTopic": {
+      "properties": {
+        "border-line-color": "#4c78ca",
+        "border-line-width": "2pt",
+        "fo:color": "#16183c",
+        "fo:font-family": "Arial",
+        "fo:font-size": "14pt",
+        "fo:font-style": "italic",
+        "fo:font-weight": "normal",
+        "fo:text-align": "center",
+        "fo:text-decoration": "none",
+        "fo:text-transform": "manual",
+        "line-class": "org.xmind.branchConnection.roundedElbow",
+        "line-color": "#4c78ca",
+        "line-width": "1pt",
+        "shape-class": "org.xmind.topicShape.roundedRect",
+        "svg:fill": "#FFFFFF"
+      },
+      "styleId": "4ovedbeb7rkasm4l2v2of8rc1e",
+      "type": "topic"
+    },
+    "mainTopic": {
+      "properties": {
+        "border-line-color": "#4c78ca",
+        "border-line-width": "2pt",
+        "fo:color": "#16183c",
+        "fo:font-family": "Arial",
+        "fo:font-size": "16pt",
+        "fo:font-style": "normal",
+        "fo:font-weight": "normal",
+        "fo:text-align": "center",
+        "fo:text-decoration": "none",
+        "fo:text-transform": "manual",
+        "line-width": "1pt",
+        "shape-class": "org.xmind.topicShape.roundedRect",
+        "svg:fill": "#FFFFFF"
+      },
+      "styleId": "54e7vkqsa1tp97pv7mc97ndi1n",
+      "type": "topic"
+    },
+    "map": {
+      "properties": {
+        "background": "",
+        "color-gradient": "none",
+        "line-tapered": "none",
+        "multi-line-colors": "none",
+        "svg:fill": "#FFFFFF",
+        "svg:opacity": "1.0"
+      },
+      "styleId": "5sr2hp8eovp9ndi7m95muae1aa",
+      "type": "map"
+    },
+    "relationship": {
+      "properties": {
+        "arrow-begin-class": "org.xmind.arrowShape.none",
+        "arrow-end-class": "org.xmind.arrowShape.triangle",
+        "fo:color": "#344581",
+        "fo:font-family": "Verdana",
+        "fo:font-size": "12pt",
+        "fo:font-style": "italic",
+        "fo:font-weight": "bold",
+        "fo:text-align": "center",
+        "fo:text-decoration": "none",
+        "fo:text-transform": "manual",
+        "line-color": "#344581",
+        "line-pattern": "dash",
+        "line-width": "2pt",
+        "shape-class": "org.xmind.relationshipShape.curved"
+      },
+      "styleId": "15fjaeeqcch954vnfa8r5m1i9r",
+      "type": "relationship"
+    },
+    "subTopic": {
+      "properties": {
+        "border-line-color": "#4c78ca",
+        "border-line-width": "1pt",
+        "fo:color": "#16183c",
+        "fo:font-family": "Arial",
+        "fo:font-size": "12pt",
+        "fo:font-style": "normal",
+        "fo:font-weight": "normal",
+        "fo:text-align": "center",
+        "fo:text-decoration": "none",
+        "fo:text-transform": "manual",
+        "line-class": "org.xmind.branchConnection.roundedElbow",
+        "line-color": "#4c78ca",
+        "line-width": "1pt",
+        "shape-class": "org.xmind.topicShape.underline",
+        "svg:fill": "none"
+      },
+      "styleId": "77mgt9sppglb947i60kabjkrul",
+      "type": "topic"
+    },
+    "summary": {
+      "properties": {
+        "line-color": "#acd4f9",
+        "line-width": "3pt",
+        "shape-class": "org.xmind.summaryShape.square"
+      },
+      "styleId": "4f8t474ch7jk4pv38mf5lmjlii",
+      "type": "summary"
+    },
+    "summaryTopic": {
+      "properties": {
+        "border-line-color": "#4c78ca",
+        "border-line-width": "0pt",
+        "fo:color": "#344581",
+        "fo:font-family": "Arial",
+        "fo:font-size": "12pt",
+        "fo:font-style": "italic",
+        "fo:font-weight": "bold",
+        "fo:text-align": "center",
+        "fo:text-decoration": "none",
+        "fo:text-transform": "manual",
+        "line-class": "org.xmind.branchConnection.roundedElbow",
+        "line-color": "#4c78ca",
+        "line-width": "1pt",
+        "shape-class": "org.xmind.topicShape.ellipse",
+        "svg:fill": "none"
+      },
+      "styleId": "6l5tus0sruc588qaqmt0f0fk10",
+      "type": "topic"
+    }
+  },
+  "settings": {
+    "infoItems/infoItem": [
+      {
+        "type": "label",
+        "mode": "card"
+      },
+      {
+        "type": "note",
+        "mode": "card"
+      },
+      {
+        "type": "href",
+        "mode": "card"
+      },
+      {
+        "type": "task",
+        "mode": "card"
+      }
+    ]
+  }
+}

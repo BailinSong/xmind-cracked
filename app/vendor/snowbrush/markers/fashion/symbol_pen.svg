@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56 (81588) - https://sketch.com -->
+    <title>symbol_pen</title>
+    <desc>Created with Sketch.</desc>
+    <g id="symbol_pen" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-21-Copy">
+            <g id="Group-19" fill="#0FB0E8" opacity="0.900000036">
+                <g id="Group-17">
+                    <circle id="Oval-29" cx="12" cy="12" r="12"></circle>
+                </g>
+            </g>
+            <g id="Group-20" transform="translate(11.904137, 12.873913) rotate(-330.000000) translate(-11.904137, -12.873913) translate(9.904137, 2.873913)" fill="#FFFFFF">
+                <polygon id="Rectangle-54" points="-3.41060513e-14 2.671875 3.09375 2.671875 3.09375 15.375 -3.14415161e-14 15.375"></polygon>
+                <polygon id="Rectangle-54-Copy-2" points="0.140625 16.171875 2.953125 16.171875 1.56593667 19.0564533"></polygon>
+                <path d="M0.84375,0 L2.25,0 C2.71599026,0 3.09375,0.377759742 3.09375,0.84375 L3.09375,1.875 L0,1.875 L0,0.84375 C0,0.377759742 0.377759742,0 0.84375,0 Z" id="Rectangle-54-Copy"></path>
+            </g>
+        </g>
+    </g>
+</svg>

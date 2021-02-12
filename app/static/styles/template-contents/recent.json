@@ -1,0 +1,37 @@
+{
+  "id": "{{_UUID_}}",
+  "class": "sheet",
+  "title": "{{Map 1}}",
+  "rootTopic": {
+    "id": "{{_UUID_}}",
+    "class": "topic",
+    "title": "{{Central Topic}}",
+    "structureClass": "{{_structureClass_}}",
+    "titleUnedited": true,
+    "children": {
+      "attached": [
+        {
+          "id": "{{_UUID_}}",
+          "title": "{{Main Topic 1}}",
+          "titleUnedited": true
+        },
+        {
+          "id": "{{_UUID_}}",
+          "title": "{{Main Topic 2}}",
+          "titleUnedited": true
+        }
+      ]
+    },
+    "extensions": [
+      {
+        "content": [
+          {
+            "content": "2",
+            "name": "right-number"
+          }
+        ],
+        "provider": "org.xmind.ui.map.unbalanced"
+      }
+    ]
+  }
+}

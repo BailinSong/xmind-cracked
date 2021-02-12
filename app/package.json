@@ -1,0 +1,31 @@
+{
+  "name": "xmind-vana",
+  "productName": "XMind",
+  "buildNumber": "202101070032 Cracked by Vicosna",
+  "arch": "64",
+  "releaseType": "vana_win32",
+  "commitHash": "bb852ec7e4f251f60a58daa3f4bc90c1998b1b0f",
+  "version": "10.3.1",
+  "description": "XMind - The most popular mind mapping software.",
+  "author": {
+    "name": "XMind Ltd.",
+    "email": "xmind-2020@xmind.net",
+    "url": "https://www.xmind.net"
+  },
+  "homepage": "https://www.xmind.net/",
+  "private": true,
+  "main": "main/main.js",
+  "license": "SEE LICENSE IN LICENSE",
+  "dependencies": {
+    "evernote": "2.0.5",
+    "fontkit": "^1.7.7",
+    "iconv-lite": "^0.4.19",
+    "native-keymap": "^2.0.0",
+    "ncp": "^2.0.0",
+    "xmind-vana-osx-tokenizer": "file:vendor/vana-osx-api/tokenizer"
+  },
+  "vendor": {
+    "name": "XMind Ltd."
+  },
+  "sbBuildNumber": "0"
+}

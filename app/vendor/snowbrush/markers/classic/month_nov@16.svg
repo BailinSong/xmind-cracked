@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40 (33762) - http://www.bohemiancoding.com/sketch -->
+    <title>month_nov copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="16" rx="2"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="16" height="16" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="16" height="16" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <linearGradient x1="50%" y1="1.40106824%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#EF5350" offset="0%"></stop>
+            <stop stop-color="#E53935" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-6" x="0" y="0" width="16" height="5"></rect>
+    </defs>
+    <g id="最终稿2.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="month-copy" transform="translate(-63.000000, -21.000000)">
+            <g id="month_nov" transform="translate(63.000000, 21.000000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask" stroke="#CFCFCF" mask="url(#mask-2)" stroke-width="0.8" fill="#FAFAFA">
+                    <use mask="url(#mask-4)" xlink:href="#path-1"></use>
+                </g>
+                <g id="Rectangle-15" mask="url(#mask-3)">
+                    <use fill="#EE432F" xlink:href="#path-6"></use>
+                    <use fill="url(#linearGradient-5)" xlink:href="#path-6"></use>
+                </g>
+                <path d="M4.35419351,9.19543015 L4.35419351,8.43761765 C4.70575776,8.42199257 4.95184905,8.39855531 5.09247476,8.36730515 C5.31643421,8.31782574 5.49872405,8.21886839 5.63934976,8.07043015 C5.7357044,7.96886714 5.80862034,7.83345183 5.85809976,7.66418015 C5.88674573,7.56261714 5.90106851,7.48709707 5.90106851,7.43761765 L6.82684976,7.43761765 L6.82684976,13.1016802 L5.68622476,13.1016802 L5.68622476,9.19543015 L4.35419351,9.19543015 Z M8.46191225,9.19543015 L8.46191225,8.43761765 C8.81347651,8.42199257 9.0595678,8.39855531 9.2001935,8.36730515 C9.42415295,8.31782574 9.6064428,8.21886839 9.7470685,8.07043015 C9.84342315,7.96886714 9.91633908,7.83345183 9.9658185,7.66418015 C9.99446448,7.56261714 10.0087872,7.48709707 10.0087872,7.43761765 L10.9345685,7.43761765 L10.9345685,13.1016802 L9.7939435,13.1016802 L9.7939435,9.19543015 L8.46191225,9.19543015 Z" id="11" fill="#6C6C6C" mask="url(#mask-3)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>label</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#448AFF" offset="0%"></stop>
+            <stop stop-color="#2979FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="1.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon" transform="translate(-67.000000, -1.000000)" fill="url(#linearGradient-1)">
+            <g id="label" transform="translate(67.020821, 2.980646)">
+                <path d="M0,1.54167261 C0,0.984213565 0.444630861,0.532303717 1.00087166,0.532303717 L14.9991283,0.532303717 C15.5518945,0.532303717 16,0.975656893 16,1.54167261 L16,3.52293482 C16,4.08039387 15.5553691,4.53230372 14.9991283,4.53230372 L1.00087166,4.53230372 C0.448105505,4.53230372 0,4.08895054 0,3.52293482 L0,1.54167261 Z M0,8.54167261 C0,7.98421357 0.444630861,7.53230372 1.00087166,7.53230372 L14.9991283,7.53230372 C15.5518945,7.53230372 16,7.97565689 16,8.54167261 L16,10.5229348 C16,11.0803939 15.5553691,11.5323037 14.9991283,11.5323037 L1.00087166,11.5323037 C0.448105505,11.5323037 0,11.0889505 0,10.5229348 L0,8.54167261 Z" id="Combined-Shape-Copy-3"></path>
+            </g>
+        </g>
+    </g>
+</svg>

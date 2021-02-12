@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>UAVs</title>
+    <defs>
+        <circle id="path-1" cx="9" cy="9" r="9"></circle>
+        <circle id="path-2" cx="9" cy="33" r="9"></circle>
+        <circle id="path-3" cx="33" cy="9" r="9"></circle>
+        <circle id="path-4" cx="33" cy="33" r="9"></circle>
+    </defs>
+    <g id="UAVs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="矩形-" x="0" y="0" width="64" height="64"></rect>
+        <g id="编组" transform="translate(11.000000, 11.000000)">
+            <path d="M10.0597598,7.79332748 C9.67605625,7.60951162 9.36656031,7.48950854 8.23532754,8.2529508 C8.11058447,8.5963331 8.13410147,9.24008478 8.77789467,10.0071489 C11.8533104,13.6714326 13.4178322,17.3301686 13.4178322,21 C13.4178322,24.6123209 11.9018011,28.2141491 8.9208362,31.8212236 C8.22960416,32.6576392 8.1625505,33.3598075 9.29345639,34.3440318 C9.52268997,34.3602101 9.83325201,34.3147198 10.2164799,34.1338598 C13.8155406,32.4353249 17.4094975,31.5821678 21,31.5821678 C24.0159447,31.5821678 27.0345995,32.1840349 30.0567237,33.3836363 C30.5417128,33.5761478 30.9646792,33.6517732 31.3080734,33.6476497 C31.8516475,33.6411225 32.2365921,33.4439604 32.4839015,33.1753825 C32.7581463,32.8775525 32.9062146,32.4592733 32.8063595,31.9230393 C32.7456185,31.5968526 32.5806087,31.2089311 32.2665363,30.7895538 C29.8227315,27.5263692 28.5821678,24.2668228 28.5821678,21 C28.5821678,17.352102 30.1281076,13.7150673 33.1673324,10.0726009 C33.4639653,9.71709065 33.8991427,9.46042658 32.4266394,7.74708357 C32.1780508,7.7596019 31.8651099,7.83206241 31.5023682,7.99891765 C28.0015788,9.60922326 24.5012686,10.4178322 21,10.4178322 C17.3526795,10.4178322 13.7065065,9.54032707 10.0597598,7.79332748 Z" id="wb" stroke="#FFFFFF" stroke-width="1.5"></path>
+            <path d="M31.6266207,9.58859173 C28.0841783,11.1434032 24.5412932,11.9178322 21,11.9178322 C17.4589993,11.9178322 13.9164071,11.1435312 10.373987,9.58795496 C13.4185025,13.3946931 14.9178322,17.2040736 14.9178322,21 C14.9178322,24.7965165 13.4180362,28.6064914 10.3712483,32.4140717 C13.9185022,30.8575228 17.4621497,30.0821678 21,30.0821678 C24.5375582,30.0821678 28.0809128,30.8573948 31.6282743,32.4149453 C28.5821969,28.6070836 27.0821678,24.7968116 27.0821678,21 C27.0821678,17.2043687 28.5812645,13.3952854 31.6266207,9.58859173 Z" id="矩形" stroke="#000000" stroke-width="1.5" fill="#6A6C75"></path>
+            <path d="M19.4173515,26 L22.5127994,26 L22.5127994,29.41 C21.8375998,29.3616581 21.3333333,29.3374872 21,29.3374872 C20.6666667,29.3374872 20.1391172,29.3641784 19.4173515,29.4175607 L19.4173515,26 Z" id="矩形" fill="#413B44"></path>
+            <g id="椭圆形" fill-rule="nonzero">
+                <use fill="#FFFFFF" xlink:href="#path-1"></use>
+                <circle stroke="#FFFFFF" stroke-width="1.5" cx="9" cy="9" r="9.75"></circle>
+                <circle stroke="#000000" stroke-width="1.5" stroke-linejoin="square" cx="9" cy="9" r="8.25"></circle>
+            </g>
+            <g id="椭圆形-" fill-rule="nonzero">
+                <use fill="#FFFFFF" xlink:href="#path-2"></use>
+                <circle stroke="#FFFFFF" stroke-width="1.5" cx="9" cy="33" r="9.75"></circle>
+                <circle stroke="#000000" stroke-width="1.5" stroke-linejoin="square" cx="9" cy="33" r="8.25"></circle>
+            </g>
+            <g id="椭圆形" fill-rule="nonzero">
+                <use fill="#FFFFFF" xlink:href="#path-3"></use>
+                <circle stroke="#FFFFFF" stroke-width="1.5" cx="33" cy="9" r="9.75"></circle>
+                <circle stroke="#000000" stroke-width="1.5" stroke-linejoin="square" cx="33" cy="9" r="8.25"></circle>
+            </g>
+            <circle id="椭圆形" fill="#E9F4F5" fill-rule="nonzero" cx="33" cy="9" r="6"></circle>
+            <circle id="椭圆形" fill="#E9F4F5" fill-rule="nonzero" cx="9" cy="9" r="6"></circle>
+            <g id="椭圆形-" fill-rule="nonzero">
+                <use fill="#FFFFFF" xlink:href="#path-4"></use>
+                <circle stroke="#FFFFFF" stroke-width="1.5" cx="33" cy="33" r="9.75"></circle>
+                <circle stroke="#000000" stroke-width="1.5" stroke-linejoin="square" cx="33" cy="33" r="8.25"></circle>
+            </g>
+            <circle id="椭圆形" fill="#E9F4F5" fill-rule="nonzero" cx="33" cy="33" r="6"></circle>
+            <circle id="椭圆形" fill="#E9F4F5" fill-rule="nonzero" cx="9" cy="33" r="6"></circle>
+            <line x1="36.5355339" y1="12.5355339" x2="29.4644661" y2="5.46446609" id="路径-" stroke="#000000" stroke-width="1.5" stroke-linecap="round"></line>
+            <line x1="36.5355339" y1="29.4644661" x2="29.4644661" y2="36.5355339" id="路径-" stroke="#000000" stroke-width="1.5" stroke-linecap="round"></line>
+            <line x1="12.5355339" y1="5.46446609" x2="5.46446609" y2="12.5355339" id="路径-" stroke="#000000" stroke-width="1.5" stroke-linecap="round"></line>
+            <line x1="12.5355339" y1="36.5355339" x2="5.46446609" y2="29.4644661" id="路径-" stroke="#000000" stroke-width="1.5" stroke-linecap="round"></line>
+        </g>
+    </g>
+</svg>

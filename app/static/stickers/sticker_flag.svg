@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>flag</title>
+    <g id="flag" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-">
+            <rect id="Rectangle" x="0" y="0" width="64" height="64"></rect>
+            <g id="Group" transform="translate(12.468750, 7.562500)">
+                <path d="M14.8971411,27.625 L32,23.4644223 L32,11.8745368 L40.687,11.8749632 L40.687,27.625 L14.8971411,27.625 Z M14.875,27.6276931 L14.875,30.625 L43.6875,30.625 L43.6875,8.87503208 L32,8.87453208 L32,3.375016 L8.56211767,3.374516 L8.56261767,0.1875 L-0.75,0.1875 L-0.75,6.37524012 L0.812008717,6.37474011 L0.8125,48.6562587 C0.8125,49.5105655 1.15877976,50.284003 1.7186384,50.8438616 C2.27849703,51.4037202 3.05193453,51.75 3.90625,51.75 C4.76056547,51.75 5.53400297,51.4037202 6.0938616,50.8438616 C6.65372024,50.284003 7,49.5105655 7,48.65625 L7,23.6245 L14.875,23.6245 L14.875,27.6276931 Z" id="形状结合" stroke="#FFFFFF" stroke-width="1.5"></path>
+                <path d="M5.5,4.875 L2.3125,4.875 L2.3125,48.65625 C2.3125,49.0963519 2.49088654,49.4947894 2.77929857,49.7832014 C3.06771059,50.0716135 3.46614809,50.25 3.90625,50.25 C4.34635191,50.25 4.74478941,50.0716135 5.03320143,49.7832014 C5.32161346,49.4947894 5.5,49.0963519 5.5,48.65625 L5.5,4.875 Z" id="Rectangle-" stroke="#000000" stroke-width="1.5" fill="#F5E0C7"></path>
+                <rect id="Rectangle-" stroke="#000000" stroke-width="1.5" fill="#FFD3BD" x="0.75" y="1.6875" width="6.3125" height="3.1875"></rect>
+                <polyline id="Rectangle--" stroke="#000000" stroke-width="1.5" fill="#ED6969" points="30.2572632 10.375 42.1875 10.375 42.1875 29.125 15.625 29.125"></polyline>
+                <polygon id="Rectangle--" fill="#FFFFFF" points="31.25 16.15625 40.625 16.15625 40.625 23.65625 27.2499084 23.65625 31.25 21.927002"></polygon>
+                <path d="M30.5,22.3612671 L16.375,22.3612671 L16.375,28.0172253 L30.5,22.3612671 Z" id="Rectangle--" stroke="#000000" stroke-width="1.5" fill="#A63F3F"></path>
+                <rect id="Rectangle-" stroke="#000000" stroke-width="1.5" fill="#ED6969" x="5.4375" y="4.875" width="25.0625" height="17.25"></rect>
+                <rect id="Rectangle-" fill="#FFFFFF" x="6.25" y="9.75" width="23.4375" height="7.5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

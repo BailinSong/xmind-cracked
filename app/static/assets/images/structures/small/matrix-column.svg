@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>structure-matrix-column</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="structure-matrix-column" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M10.2978723,14.5 L37.7021281,14.5 C37.9606444,14.5 38.1702132,14.7095688 38.1702132,14.9680851 L38.1702132,32.0663979 C38.1702132,32.3249142 37.9606444,32.534483 37.7021281,32.534483 L10.2978723,32.534483 C10.0393561,32.534483 9.82978723,32.3249142 9.82978723,32.0663979 L9.82978723,14.9680851 C9.82978723,14.7095688 10.0393561,14.5 10.2978723,14.5 Z" id="-" fill="#D6D9EC"></path>
+        <path d="M10.2978723,14.5 L37.7021281,14.5 C37.9606444,14.5 38.1702132,14.7095688 38.1702132,14.9680851 L38.1702132,20.155172 L9.82978723,20.155172 L9.82978723,14.9680851 C9.82978723,14.7095688 10.0393561,14.5 10.2978723,14.5 Z" id="-" fill="#50A7FD"></path>
+        <polygon id="-" fill="#9496A8" fill-rule="nonzero" points="18.4494912 32.5399414 17.7494912 32.5399414 17.7494912 20.1542254 18.4494912 20.1542254"></polygon>
+    </g>
+</svg>

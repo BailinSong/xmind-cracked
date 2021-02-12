@@ -1,0 +1,31 @@
+{
+  "id": "{{_UUID_}}",
+  "class": "sheet",
+  "title": "{{Map 1}}",
+  "rootTopic": {
+    "id": "3bdab683d9a95208d6c74a9e38",
+    "class": "topic",
+    "title": "{{Balance Sheet}}",
+    "structureClass": "org.xmind.ui.logic.right",
+    "titleUnedited": true,
+    "children": {
+      "attached": [
+        {
+          "id": "6b48121e92da8593430f9b74b5",
+          "title": "{{Assets}}",
+          "titleUnedited": true
+        },
+        {
+          "id": "6348ebe8e8eaa16b61de0b77a4",
+          "title": "{{Liabilities}}",
+          "titleUnedited": true
+        },
+        {
+          "id": "42f44298-da0a-4ea6-8cfb-c179217de464",
+          "title": "{{Owner's Equity}}",
+          "titleUnedited": true
+        }
+      ]
+    }
+  }
+}

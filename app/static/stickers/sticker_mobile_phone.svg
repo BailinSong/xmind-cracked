@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>mobilePhone</title>
+    <g id="mobilePhone" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="矩形-" x="0" y="1.13686838e-13" width="64" height="64"></rect>
+        <rect id="wb" stroke="#FFFFFF" stroke-width="1.5" x="16.25" y="5.25" width="31.5" height="53.5" rx="3"></rect>
+        <rect id="矩形" stroke="#000000" stroke-width="1.5" fill="#FFFFFF" x="17.75" y="6.75" width="28.5" height="50.5" rx="3"></rect>
+        <path d="M41.25,6.75 L22.75,6.75 L22.75,9 C22.75,9.62132034 23.0018398,10.1838203 23.4090097,10.5909903 C23.8161797,10.9981602 24.3786797,11.25 25,11.25 L39,11.25 C39.6213203,11.25 40.1838203,10.9981602 40.5909903,10.5909903 C40.9981602,10.1838203 41.25,9.62132034 41.25,9 L41.25,6.75 Z" id="矩形" stroke="#000000" stroke-width="1.5" fill="#000000"></path>
+        <rect id="矩形" fill="#ED6969" x="21" y="18" width="6" height="6" rx="1"></rect>
+        <rect id="矩形" fill="#BEDCDF" x="29" y="18" width="6" height="6" rx="1"></rect>
+        <rect id="矩形" fill="#9086F9" x="37" y="18" width="6" height="6" rx="1"></rect>
+        <rect id="矩形" fill="#BEDCDF" x="21" y="26" width="6" height="6" rx="1"></rect>
+        <rect id="矩形" fill="#FFFFFF" x="29" y="26" width="6" height="6" rx="1"></rect>
+        <path d="M26.4482423,9 L33.9442971,9 M36.8418226,9 L37.7306296,9" id="形状" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round"></path>
+        <rect id="矩形" fill="#BEDCDF" x="20" y="48" width="24" height="6" rx="3"></rect>
+    </g>
+</svg>

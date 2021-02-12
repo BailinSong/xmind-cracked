@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="10px" viewBox="0 0 14 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>rounded-hexagon-b</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="16"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标-copy" transform="translate(-489.000000, -1577.000000)">
+            <g id="rounded-hexagon-b" transform="translate(488.000000, 1574.000000)">
+                <g id="ic_rectangle" opacity="0">
+                    <use fill="#FB5151" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#DEDEDE" stroke-width="0.81" x="0.405" y="0.405" width="15.19" height="15.19"></rect>
+                </g>
+                <path d="M1.85907966,5.32921165 C1.64620677,5.39174283 1.5,5.58707515 1.5,5.80894226 L1.5,10.0923795 C1.5,10.3115749 1.64276796,10.5052135 1.85216284,10.5700239 L7.86373041,12.4306824 C7.96019378,12.4605391 8.06343673,12.4604887 8.15987092,12.4305378 L14.1483033,10.5706325 C14.3574627,10.5056711 14.5,10.3121477 14.5,10.0931326 L14.5,5.80807992 C14.5,5.58641752 14.354058,5.39121408 14.1414508,5.32850544 L8.15516275,3.56284644 C8.063009,3.53566564 7.9649754,3.53561144 7.87279165,3.56269031 L1.85907966,5.32921165 Z" id="Rectangle-2" stroke="#434B54"></path>
+            </g>
+        </g>
+    </g>
+</svg>

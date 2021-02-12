@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56 (81588) - https://sketch.com -->
+    <title>symbol_image</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="9.60117188" cy="9.60117188" r="9.00117188"></circle>
+    </defs>
+    <g id="symbol_image" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-8">
+            <circle id="Oval-29" fill="#0FB0E8" cx="12" cy="12" r="12"></circle>
+            <g id="Path-2" transform="translate(2.400000, 2.400000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask"></g>
+                <path d="M3.22005454,17.2461121 C4.05195802,16.7033647 12.6794775,8.12725931 13.6582784,8.07971092 C14.3108124,8.048012 17.1206772,9.68463004 22.0878729,12.9895651 L15.6205192,17.7849938 L8.87096768,19.3250977 L2.39198118,19.3250977 C2.38942777,18.3009389 2.66545222,17.6079437 3.22005454,17.2461121 Z" fill="#FFFFFF" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+        <circle id="Oval-32" fill="#FFFFFF" cx="9" cy="8.5" r="2"></circle>
+    </g>
+</svg>
